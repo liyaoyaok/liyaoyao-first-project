@@ -1,2 +1,9 @@
-# liyaoyao-first-project
-李瑶瑶的第一个github项目
+# MeetSpot项目
+## 项目介绍
+这是我的第一个GitHub测试项目，用于熟悉仓库创建与文档编写。
+
+## 使用方法
+本项目用于学习GitHub基本操作，包括创建仓库、编辑README文件、提交修改等。
+
+1. 登录GitHub账号，进入本项目仓库。
+2. 查看README文件，了解项目基本信息。
