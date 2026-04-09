@@ -1,6 +1,7 @@
 public class homework1 {
     public static void main(String[] args) {
-        System.out.println("Hello, GitHub!");
-        System.out.println("这是我的第一个GitHub仓库文件");
+        // 这是修改后的内容
+        System.out.println("Hello, GitHub! 这是我修改后的第一个Java文件");
+        System.out.println("文件名：homework1.java");
     }
 }
